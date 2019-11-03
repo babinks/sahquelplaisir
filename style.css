@@ -17,7 +17,7 @@
 }
 
 ::selection {
-    background: #16a085;
+    background: #d63031;
     color: #a4003a;
     text-shadow: none;
 }
@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
-	color: #1abc9c;
+	color: #d63031;
 }
 
 .navbar-default {
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #1abc9c;
+	color: #d63031;
 	background-color: transparent;
 }
 
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-	color: #1abc9c;
+	color: #d63031;
 }
 
 .navbar-default .navbar-toggle {
@@ -309,7 +309,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .contact-form .form-send button:hover {
-  background: #2addb9;
+  background: #d63031;
 }
 
 .contact-form .validate {
@@ -335,7 +335,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50%;
   width: 24px;
   height: 24px;
-  border: 3px solid #18d26e;
+  border: 3px solid #d63031;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -378,7 +378,7 @@ h1, h2, h3, h4, h5, h6 {
 .contact-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #d63031;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -399,7 +399,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #copyrights a {
-  color: #1abc9c;
+  color: #d63031;
 }
 
 .credits {
